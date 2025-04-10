@@ -244,7 +244,7 @@ __examples based on the menu-driven linked list program__
  
  # TE SAME AS TRUE FOR ALL
 
-__THE PROGRAM DOES NOT TERMINATE (STOP) IF YOU ENTER SYBOLS OR DARA TYPE__
+__THE PROGRAM DOES NOT TERMINATE (STOP) IF YOU ENTER SYMBOLS OR DATA TYPE__
 
 ### Open Dev-C++: Launch the IDE on your computer.
 
